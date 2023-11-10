@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698832368 source:c:\users\owner\desktop\laborator 2 poo\ex a\main.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+
